@@ -9,5 +9,9 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 
 ## Projects built with Trystero
 
+<!-- Projects MUST be listed in alphabetical order -->
+
 - [Chitchatter](https://chitchatter.im/) [[source code](https://github.com/jeremyckahn/chitchatter)]
 - [Farmhand](https://www.farmhand.life/) [[source code](https://github.com/jeremyckahn/farmhand)]
+- [Jambox](https://jambox.pages.dev/) [[source code](https://github.com/arslanastral/jambox)]
+- [Tenebra](https://code.riky.app/) [[source code](https://github.com/RikSteed/tenebra)]
