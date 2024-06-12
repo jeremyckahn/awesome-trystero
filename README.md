@@ -11,6 +11,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 
 <!-- Projects MUST be listed in alphabetical order -->
 
+- [BomberPengu](https://freehuntx.github.io/bomberpengu/) [[source code](https://github.com/freehuntx/bomberpengu)] - Revival of the BomberPengu swf game (+Multiplayer) 
 - [Chitchatter](https://chitchatter.im/) [[source code](https://github.com/jeremyckahn/chitchatter)] - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [Farmhand](https://www.farmhand.life/) [[source code](https://github.com/jeremyckahn/farmhand)] - A resource management game that puts a farm in your hand
 - [Jambox](https://jambox.pages.dev/) [[source code](https://github.com/arslanastral/jambox)] - A collaborative real-time P2P virtual music instrument
