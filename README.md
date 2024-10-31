@@ -15,6 +15,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 - [Chitchatter](https://chitchatter.im/) [[source code](https://github.com/jeremyckahn/chitchatter)] - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [Farmhand](https://www.farmhand.life/) [[source code](https://github.com/jeremyckahn/farmhand)] - A resource management game that puts a farm in your hand
 - [Jambox](https://jambox.pages.dev/) [[source code](https://github.com/arslanastral/jambox)] - A collaborative real-time P2P virtual music instrument
+- [Mateversum](https://expenses.github.io/mateversum-web/) [[source code](https://github.com/expenses/mateversum)] - A peer-to-peer WebXR metaverse project
 - [Tenebra](https://code.riky.app/) [[source code](https://github.com/RikSteed/tenebra)] - A simple WebRTC interview tool build with React and Trystero
 - [xrfragment](https://xrfragment.org/) [[source code](https://github.com/coderofsalvation/xrfragment)] - XR Fragments: a tiny specification for controlling any 3D model using URLs, based on existing metadata ⚡ Enable hyperlinked 3D storytelling using all 3D editors 💙
 
