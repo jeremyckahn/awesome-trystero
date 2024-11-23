@@ -24,3 +24,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 <!-- Resources MUST be listed in alphabetical order -->
 
 - [y-labs](https://github.com/WinstonFassett/y-labs/blob/0f943e77f514298f068bb98cd1703e4601fabc91/src/lib/yjs-trystero/y-trystero.js) - A YJS adapter for Trystero
+
+## Similar projects
+
+- [godot-matcha](https://github.com/freehuntx/godot-matcha) - A Trystero-inspired project for Godot
