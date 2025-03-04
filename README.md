@@ -24,9 +24,9 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 
 <!-- Resources MUST be listed in alphabetical order -->
 
+- [Trystero API Observer Tool](https://github.com/weolopez/api-observer) - [[Demo](https://weolopez.com/chat/api-observer/)] [[Announcement](https://github.com/dmotz/trystero/discussions/107)] The API Observer provides an interactive Trystero dashboard
 - [y-labs](https://github.com/WinstonFassett/y-labs/blob/0f943e77f514298f068bb98cd1703e4601fabc91/src/lib/yjs-trystero/y-trystero.js) - A YJS adapter for Trystero
 
 ## Similar projects
 
-- [Trystero API Observer Tool](https://github.com/weolopez/api-observer) - [[Demo](https://weolopez.com/chat/api-observer/)] [[Announcement](https://github.com/dmotz/trystero/discussions/107)] The API Observer provides an interactive Trystero dashboard
 - [godot-matcha](https://github.com/freehuntx/godot-matcha) - A Trystero-inspired project for Godot
