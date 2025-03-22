@@ -14,6 +14,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 - [BomberPengu](https://freehuntx.github.io/bomberpengu/) [[source code](https://github.com/freehuntx/bomberpengu)] - Revival of the BomberPengu swf game (+Multiplayer) 
 - [Chitchatter](https://chitchatter.im/) [[source code](https://github.com/jeremyckahn/chitchatter)] - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [Farmhand](https://www.farmhand.life/) [[source code](https://github.com/jeremyckahn/farmhand)] - A resource management game that puts a farm in your hand
+- [Goldball](https://goldball.co/) - Snowfight and Cups-And-Balls multiplayer webgame in 3D
 - [Jambox](https://jambox.pages.dev/) [[source code](https://github.com/arslanastral/jambox)] - A collaborative real-time P2P virtual music instrument
 - [Mateversum](https://expenses.github.io/mateversum-web/) [[source code](https://github.com/expenses/mateversum)] - A peer-to-peer WebXR metaverse project
 - [Tenebra](https://code.riky.app/) [[source code](https://github.com/RikSteed/tenebra)] - A simple WebRTC interview tool build with React and Trystero
