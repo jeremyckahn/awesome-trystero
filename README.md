@@ -18,6 +18,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 - [Jambox](https://jambox.pages.dev/) [[source code](https://github.com/arslanastral/jambox)] - A collaborative real-time P2P virtual music instrument
 - [Litghtsaber](https://chov.in/Litghtsaber/) [[source code](https://github.com/Chovin/Litghtsaber)] - A game where you deflect blaster bolts with a litghtsaber using your phone's gyro and accelerometer
 - [Mateversum](https://expenses.github.io/mateversum-web/) [[source code](https://github.com/expenses/mateversum)] - A peer-to-peer WebXR metaverse project
+- [Peersuite](https://peersuite.space/) [[source code](https://github.com/openconstruct/Peersuite)] - Peer to peer workspace 
 - [Tenebra](https://code.riky.app/) [[source code](https://github.com/RikSteed/tenebra)] - A simple WebRTC interview tool build with React and Trystero
 - [xrfragment](https://xrfragment.org/) [[source code](https://github.com/coderofsalvation/xrfragment)] - XR Fragments: a tiny specification for controlling any 3D model using URLs, based on existing metadata ⚡ Enable hyperlinked 3D storytelling using all 3D editors 💙
 - [Quest-Net](https://quest-net.github.io/) [[source code](https://github.com/quest-net/quest-net-src)] - A real-time P2P virtual tabletop RPG webapp for players and DM's to connect and play together built with React and Trystero
