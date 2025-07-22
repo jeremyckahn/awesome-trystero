@@ -14,6 +14,8 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 - [BomberPengu](https://freehuntx.github.io/bomberpengu/) [[source code](https://github.com/freehuntx/bomberpengu)] - Revival of the BomberPengu swf game (+Multiplayer) 
 - [Chitchatter](https://chitchatter.im/) [[source code](https://github.com/jeremyckahn/chitchatter)] - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [Farmhand](https://www.farmhand.life/) [[source code](https://github.com/jeremyckahn/farmhand)] - A resource management game that puts a farm in your hand
+- [Flourish & Decay](https://www.flourishanddecay.com/) - Based on Conway's Game of Life, the Flourish & Decay is a strategy game about cellular life
+  - [Source code sample](https://github.com/dmotz/trystero/issues/133)
 - [Goldball](https://goldball.co/) - Snowfight and Cups-And-Balls multiplayer webgame in 3D
 - [Jambox](https://jambox.pages.dev/) [[source code](https://github.com/arslanastral/jambox)] - A collaborative real-time P2P virtual music instrument
 - [Litghtsaber](https://chov.in/Litghtsaber/) [[source code](https://github.com/Chovin/Litghtsaber)] - A game where you deflect blaster bolts with a litghtsaber using your phone's gyro and accelerometer
