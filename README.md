@@ -18,6 +18,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
   - [Source code sample](https://github.com/dmotz/trystero/issues/133)
 - [Goldball](https://goldball.co/) - Snowfight and Cups-And-Balls multiplayer webgame in 3D
 - [Jambox](https://jambox.pages.dev/) [[source code](https://github.com/arslanastral/jambox)] - A collaborative real-time P2P virtual music instrument
+- [Last Ship Sailing](https://lss.fractalreality.ca) - Real-time multiplayer naval combat with a custom peer-to-peer consensus layer; just a room code, no game server.
 - [Litghtsaber](https://chov.in/Litghtsaber/) [[source code](https://github.com/Chovin/Litghtsaber)] - A game where you deflect blaster bolts with a litghtsaber using your phone's gyro and accelerometer
 - [Mateversum](https://expenses.github.io/mateversum-web/) [[source code](https://github.com/expenses/mateversum)] - A peer-to-peer WebXR metaverse project
 - [Peersuite](https://peersuite.space/) [[source code](https://github.com/openconstruct/Peersuite)] - Peer to peer workspace
@@ -31,6 +32,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 <!-- Resources MUST be listed in alphabetical order -->
 
 - [Trystero API Observer Tool](https://github.com/weolopez/api-observer) - [[Demo](https://weolopez.com/chat/api-observer/)] [[Announcement](https://github.com/dmotz/trystero/discussions/107)] The API Observer provides an interactive Trystero dashboard
+- [trystero-consensus](https://github.com/AshmanRoonz/trystero-consensus) - Owner-free P2P consensus helpers: leader election, convergent state, and claim/vote validation. Transport-agnostic, pairs with Trystero.
 - [y-labs](https://github.com/WinstonFassett/y-labs/blob/0f943e77f514298f068bb98cd1703e4601fabc91/src/lib/yjs-trystero/y-trystero.js) - A YJS adapter for Trystero
 
 ## Similar projects
