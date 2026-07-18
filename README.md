@@ -11,6 +11,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 
 <!-- Projects MUST be listed in alphabetical order -->
 
+- [Boggleflix Party](https://maxanthonycharles-del.github.io/boggleflix/) [[source code](https://github.com/maxanthonycharles-del/boggleflix) - A bright, phone-first family word game inspired by Boggle party game
 - [BomberPengu](https://freehuntx.github.io/bomberpengu/) [[source code](https://github.com/freehuntx/bomberpengu)] - Revival of the BomberPengu swf game (+Multiplayer) 
 - [Chitchatter](https://chitchatter.im/) [[source code](https://github.com/jeremyckahn/chitchatter)] - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [Farmhand](https://www.farmhand.life/) [[source code](https://github.com/jeremyckahn/farmhand)] - A resource management game that puts a farm in your hand
@@ -22,10 +23,10 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 - [Litghtsaber](https://chov.in/Litghtsaber/) [[source code](https://github.com/Chovin/Litghtsaber)] - A game where you deflect blaster bolts with a litghtsaber using your phone's gyro and accelerometer
 - [Mateversum](https://expenses.github.io/mateversum-web/) [[source code](https://github.com/expenses/mateversum)] - A peer-to-peer WebXR metaverse project
 - [Peersuite](https://peersuite.space/) [[source code](https://github.com/openconstruct/Peersuite)] - Peer to peer workspace
+- [Quest-Net](https://quest-net.github.io/) [[source code](https://github.com/quest-net/quest-net-src)] - A real-time P2P virtual tabletop RPG webapp for players and DM's to connect and play together built with React and Trystero
 - [Succubus Club](https://succubus-club.net/) [[source code](https://github.com/thomasWajs/succubus-club)] - Succubus Club is a platform for playing V:TES (Vampire: The Eternal Struggle) card game in a web browser.
 - [Tenebra](https://code.riky.app/) [[source code](https://github.com/RikSteed/tenebra)] - A simple WebRTC interview tool build with React and Trystero
 - [xrfragment](https://xrfragment.org/) [[source code](https://github.com/coderofsalvation/xrfragment)] - XR Fragments: a tiny specification for controlling any 3D model using URLs, based on existing metadata ⚡ Enable hyperlinked 3D storytelling using all 3D editors 💙
-- [Quest-Net](https://quest-net.github.io/) [[source code](https://github.com/quest-net/quest-net-src)] - A real-time P2P virtual tabletop RPG webapp for players and DM's to connect and play together built with React and Trystero
 
 ## Development resources
 
