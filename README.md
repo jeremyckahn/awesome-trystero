@@ -22,6 +22,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 - [Last Ship Sailing](https://lss.fractalreality.ca) - Real-time multiplayer naval combat with a custom peer-to-peer consensus layer; just a room code, no game server.
 - [Litghtsaber](https://chov.in/Litghtsaber/) [[source code](https://github.com/Chovin/Litghtsaber)] - A game where you deflect blaster bolts with a litghtsaber using your phone's gyro and accelerometer
 - [Mateversum](https://expenses.github.io/mateversum-web/) [[source code](https://github.com/expenses/mateversum)] - A peer-to-peer WebXR metaverse project
+- [Obsidian Collab](https://community.obsidian.md/plugins/collab) [[source code](https://github.com/filipesilva/obsidian-collab)] - Real-time, end-to-end encrypted, peer-to-peer, collaborative editing across Obsidian vaults for files and folders.
 - [Peersuite](https://peersuite.space/) [[source code](https://github.com/openconstruct/Peersuite)] - Peer to peer workspace
 - [Quest-Net](https://quest-net.github.io/) [[source code](https://github.com/quest-net/quest-net-src)] - A real-time P2P virtual tabletop RPG webapp for players and DM's to connect and play together built with React and Trystero
 - [Succubus Club](https://succubus-club.net/) [[source code](https://github.com/thomasWajs/succubus-club)] - Succubus Club is a platform for playing V:TES (Vampire: The Eternal Struggle) card game in a web browser.
