@@ -27,6 +27,7 @@ An Awesome List for [Trystero](https://github.com/dmotz/trystero) resources.
 - [Quest-Net](https://quest-net.github.io/) [[source code](https://github.com/quest-net/quest-net-src)] - A real-time P2P virtual tabletop RPG webapp for players and DM's to connect and play together built with React and Trystero
 - [Succubus Club](https://succubus-club.net/) [[source code](https://github.com/thomasWajs/succubus-club)] - Succubus Club is a platform for playing V:TES (Vampire: The Eternal Struggle) card game in a web browser.
 - [Tenebra](https://code.riky.app/) [[source code](https://github.com/RikSteed/tenebra)] - A simple WebRTC interview tool build with React and Trystero
+- [WebChat](https://chromewebstore.google.com/detail/cpaedhbidlpnbdfegakhiamfpndhjpgf) [[source code](https://github.com/molvqingtai/WebChat)] - Chat anonymously with other visitors of any website you are on, over WebRTC
 - [xrfragment](https://xrfragment.org/) [[source code](https://github.com/coderofsalvation/xrfragment)] - XR Fragments: a tiny specification for controlling any 3D model using URLs, based on existing metadata ⚡ Enable hyperlinked 3D storytelling using all 3D editors 💙
 
 ## Development resources
